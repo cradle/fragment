@@ -1,0 +1,28 @@
+body {
+  padding: 1em;
+}
+
+h1, h2 { 
+  font-family: 'IM Fell English SC', arial, serif;
+}
+h1 {
+  font-size: 300%;
+}
+h2 {
+  font-size: 200%;
+}
+p, li {
+  font-family: 'Cantarell', arial, serif;
+  font-size: 120%;
+  text-align: justify;
+}
+li {
+  padding: 0.5em;
+}
+p {
+  line-height: 1.5;
+}
+p.response {
+  font-style: italic;
+  color: #888;
+}
